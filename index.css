@@ -1,0 +1,23 @@
+
+
+.clicked{
+    color: aqua;
+}
+
+.form,
+.greeting{
+    display: none
+}
+
+.showing{
+    display: block;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
