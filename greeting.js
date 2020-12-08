@@ -31,7 +31,7 @@ function loadName(){
     console.log(currentUser)
     if(currentUser === null){
         askForName();
-    }else{ 
+    }else{
         paintGreeting(currentUser);
     }
 }
